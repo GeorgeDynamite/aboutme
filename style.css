@@ -1,0 +1,43 @@
+html body {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 25px;
+    background-color: #f7f7f7;
+}
+#wrap {
+    min-height: 100%;
+  }
+
+  #main {
+    overflow: auto;
+    padding-bottom: 180px;
+  }
+  
+.card {
+    border: 0;
+    background-color: #292b2c;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+}
+.btn{
+    margin-top: 15px;
+}
+.card-body{
+    background-color:#292b2c;
+}
+img{
+    height: 250px;
+}
+.form-group{
+    padding-top: 25px;
+}
+#footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
